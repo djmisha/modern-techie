@@ -1,27 +1,28 @@
 
 const modernTechie = () => {
 	commuteToWork();
-	doWork()
+	doWork();
+	manageProjects();
 	eatLunch();
-	meetingsHave();
+	haveMeetings();
+	readEmail();
+	doYogaMeditate();
 }
 
-function commuteToWork(miles, time, traffic) {
+function commuteToWork() {
+	let car, elavator, walk, scooter, homeless;
+}
+
+function doWork () {
 
 }
 
-function doWork (hours, type, priority) {
-
+function eatLunch () {
+	let foodType, friends, service, hours;
 }
 
-function eatLunch (hours, food, friends) {
-
-}
-
-function meetingsHave(); (hours, info, priority) {
-	let meeetingHours =	hours;
-	let info = [];
-	let priority;
+function haveMeetings () {
+	let subject, hours, people;
 }
 
 
